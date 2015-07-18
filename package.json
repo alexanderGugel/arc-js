@@ -1,6 +1,6 @@
 {
   "name": "arc-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Adaptive Replacement Cache (ARC) written in JavaScript.",
   "main": "index.js",
   "scripts": {
