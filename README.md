@@ -35,11 +35,19 @@ Ghost entries are being used in order to keep track of expelled pages. They no l
 
 Frequently requested pages are being promoted into the LFU.
 
+Install
+-------
+
+With [npm](https://www.npmjs.org/) do:
+
+```
+npm i arc-js
+```
+
 Usage
 -----
 
 ```js
-
 var mainStorage = {
   get: function (key) {
     // User specific logic (FS/ DB interaction)
